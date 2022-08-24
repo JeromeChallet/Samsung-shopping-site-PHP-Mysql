@@ -1,0 +1,19 @@
+{
+  "name": "mobileshopee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch ./sass/style.scss:style.css"
+  },
+  "author": "jerome challet",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "sass": "^1.54.5"
+  },
+  "description": ""
+}

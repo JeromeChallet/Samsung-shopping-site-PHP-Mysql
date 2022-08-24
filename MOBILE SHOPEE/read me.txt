@@ -1,0 +1,9 @@
+shopping website for samsung mobile phones.
+html; css; sass; PHP; MySQL
+xampp to execute php in the browser and PHPStorm for the IDE
+
+mobile shopee and on sale lead to the index
+products leads to one product 
+and the cart icon to the cart
+
+only the increase and decrease quantity function has been implemented so far.
